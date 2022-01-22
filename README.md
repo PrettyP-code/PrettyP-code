@@ -1,3 +1,5 @@
+# ABOUT ME
+
 - 👋 Hi, I’m Pelumi Ogunremu, nice to meet you!
 -    I’m a Nigeria based medical student @University of Ilorin, data science intern @HamoyeAI and DSN AI+ campus lead
 - 👀 I’m interested in autonomous systems and absolutely in love with how AI imitates human cognition
